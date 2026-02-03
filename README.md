@@ -1,5 +1,5 @@
 # Maven Cycles: Multi-Page Business Intelligence Report
-- 📊 Project Overview
+## 📊 Project Overview
 This repository contains a comprehensive Power BI data analysis project for Maven Cycles, a global bicycle and accessories retailer. The goal of this project was to transform raw transactional data into an interactive, multi-page dashboard that tracks Key Performance Indicators (KPIs), identifies sales trends, and analyzes customer behavior to drive strategic decision-making.
 
 ## 🚀 Key Insights & Executive Summary
